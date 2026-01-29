@@ -7,7 +7,6 @@
      A            XID            6A  O  7 12
      A            XNAME         30A  O  7 20
      A            XJOB           8A  O  7 52
-     A* COLOR                  HELLO
      A          R SFLCTL                    SFLCTL(SFLDTA)
      A                                      SFLPAG(0014)
      A                                      SFLSIZ(9999)
